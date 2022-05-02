@@ -18,6 +18,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Interaktionsdesign](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/interaktionsdesign.md)
 * [Trelagsarkitektur](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
 * [Hvad er www](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/filer/Webteknologier1.pdf)
+* [Flowchart](https://github.com/mpsteenstrup/Billedmanipulation#flowchart-eller-rutediagram)
 
 
 ## Praktisk
