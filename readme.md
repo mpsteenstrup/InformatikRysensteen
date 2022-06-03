@@ -11,7 +11,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
 
 ## Teori
-* [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md).
+* [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
 * [Designfasen](https://github.com/mpsteenstrup/AstroPi2020/blob/master/materiale/Designfasen.md)
 * [Farver](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/farver.md)
 * [Gestaltlovene](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/gestaltlovene.md)
