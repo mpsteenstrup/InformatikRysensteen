@@ -1,14 +1,10 @@
-# Informatik 2021/22
+# Informatik 2022/23
 
 Her er en samlet oversigt over det materiale der ligger til informatikundervisning.
 
 
 ## Projekter
-* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation).
-* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2020/tree/master/informatik2020)
 * [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io)
-* [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
-* [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
 
 ## Teori
 * [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
@@ -25,3 +21,10 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Logbog](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/logbogGoogleSites.md)
 * [Atom og Github tilmelding](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/ATOMEditorOgGithubTilmelding.md)
 * [Github til hosting af websider](https://github.com/mpsteenstrup/mpsteenstrup.github.io#github-til-hosting-af-websider)
+
+
+## Tidligere Projekter
+* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation).
+* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2020/tree/master/informatik2020)
+* [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
+* [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
