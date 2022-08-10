@@ -2,6 +2,7 @@
 
 Her er en samlet oversigt over det materiale der ligger til informatikundervisning.
 
+[Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
 
 ## Projekter
 * [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io)
