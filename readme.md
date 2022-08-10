@@ -18,7 +18,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Praktisk
-* [Logbog](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/logbogGoogleSites.md)
+* [Logbog](dokumenter/Logbog.md)
 * [Brackets og Github tilmelding](/dokumenter/BracketsEditorOgGithubTilmelding.md)
 
 
