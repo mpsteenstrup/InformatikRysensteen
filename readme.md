@@ -22,6 +22,9 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Logbog](dokumenter/Logbog.md)
 * [Brackets og Github tilmelding](/dokumenter/BracketsEditorOgGithubTilmelding.md)
 
+## Udover undervisningen
+* [Cyber Skills Mesterskaberne 2022, 28. og 29. oktober](https://community.cyberskills.dk/csmesterskab/)
+* [Astro-Pi camp](https://astro-pi.org/mission-space-lab/)
 
 
 ## Tidligere Projekter
