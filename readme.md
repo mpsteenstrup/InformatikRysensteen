@@ -20,7 +20,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Praktisk
 * [Logbog](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/logbogGoogleSites.md)
 * [Brackets og Github tilmelding](/dokumenter/BracketsEditorOgGithubTilmelding.md)
-* [Github til hosting af websider](https://github.com/mpsteenstrup/mpsteenstrup.github.io#github-til-hosting-af-websider)
+
 
 
 ## Tidligere Projekter
