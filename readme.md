@@ -25,7 +25,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Udover undervisningen
 * [Cyber Skills Mesterskaberne 2022, 28. og 29. oktober](https://community.cyberskills.dk/csmesterskab/)
-* [Astro-Pi camp](https://astro-pi.org/mission-space-lab/)
+* [Astro-Pi camp 16. og 17. januar](http://iftek.dk/mission-spacecamp-2023)
 
 
 ## Tidligere Projekter
