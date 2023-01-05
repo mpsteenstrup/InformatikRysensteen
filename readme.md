@@ -7,6 +7,8 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Projekter
 * [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io)
 * [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
+* [Machine Learning](https://github.com/mpsteenstrup/ML)
+
 
 ## Teori
 * [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
