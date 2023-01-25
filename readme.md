@@ -8,7 +8,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io)
 * [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
 * [Machine Learning](https://github.com/mpsteenstrup/ML)
-
+* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation).
 
 ## Teori
 * [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
@@ -31,7 +31,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Tidligere Projekter
-* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation).
+
 
 * [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
 * [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
