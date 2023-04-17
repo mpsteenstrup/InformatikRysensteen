@@ -5,11 +5,11 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 [Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
 
 ## Projekter
-* [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io).
-* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022).
-* [Machine Learning](https://github.com/mpsteenstrup/ML).
-* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation).
-* [Databaser](https://github.com/mpsteenstrup/databaser).
+* [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io)
+* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
+* [Machine Learning](https://github.com/mpsteenstrup/ML)
+* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
+* [Databaser](https://github.com/mpsteenstrup/databaser)
 
 ## Teori
 * [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
@@ -25,6 +25,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Praktisk
 * [Logbog](dokumenter/Logbog.md)
 * [Brackets og Github tilmelding](/dokumenter/BracketsEditorOgGithubTilmelding.md)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Udover undervisningen
 * [Cyber Skills Mesterskaberne 2022, 28. og 29. oktober](https://community.cyberskills.dk/csmesterskab/)
@@ -32,7 +33,5 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Tidligere Projekter
-
-
 * [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
 * [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
