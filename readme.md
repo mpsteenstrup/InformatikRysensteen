@@ -5,10 +5,11 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 [Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
 
 ## Projekter
-* [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io)
-* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
-* [Machine Learning](https://github.com/mpsteenstrup/ML)
+* [Webteknologier](https://github.com/mpsteenstrup/mpsteenstrup.github.io).
+* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022).
+* [Machine Learning](https://github.com/mpsteenstrup/ML).
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation).
+* [Databaser](https://github.com/mpsteenstrup/databaser).
 
 ## Teori
 * [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
