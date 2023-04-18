@@ -17,9 +17,9 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Farver](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/farver.md)
 * [Gestaltlovene](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/gestaltlovene.md)
 * [Interaktionsdesign](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/interaktionsdesign.md)
-* [Trelagsarkitektur](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
+* [Trelagsarkitektur](dokumenter/Tre-lags-arkitektur.md)
 * [Hvad er www](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/filer/Webteknologier1.pdf)
-* [Flowchart](https://github.com/mpsteenstrup/Billedmanipulation#flowchart-eller-rutediagram)
+* [Flowchart](https://github.com/mpsteenstrup/InformatikRysensteen/blob/main/dokumenter/flowchart.md)
 
 
 ## Praktisk
