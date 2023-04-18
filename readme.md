@@ -12,14 +12,14 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Databaser](https://github.com/mpsteenstrup/databaser)
 
 ## Teori
-* [Innovation](https://github.com/mpsteenstrup/spilLegOgSamarbejde/blob/master/dokumenter/innovation.md)
-* [Designfasen](https://github.com/mpsteenstrup/AstroPi2020/blob/master/materiale/Designfasen.md)
-* [Farver](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/farver.md)
-* [Gestaltlovene](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/gestaltlovene.md)
-* [Interaktionsdesign](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/interaktionsdesign.md)
+* [Innovation](dokumenter/innovation.md)
+* [Designfasen](dokumenter/Designfasen.md)
+* [Farver](dokumenter/farver.md)
+* [Gestaltlovene](dokumenter/gestaltlovene.md)
+* [Interaktionsdesign](dokumenter/Interaktionsdesign.MD)
 * [Trelagsarkitektur](dokumenter/Tre-lags-arkitektur.md)
 * [Hvad er www](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/filer/Webteknologier1.pdf)
-* [Flowchart](https://github.com/mpsteenstrup/InformatikRysensteen/blob/main/dokumenter/flowchart.md)
+* [Flowchart](dokumenter/flowchart.md)
 
 
 ## Praktisk
