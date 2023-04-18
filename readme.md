@@ -24,7 +24,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Praktisk
 * [Logbog](dokumenter/Logbog.md)
-* [Brackets og Github tilmelding](/dokumenter/BracketsEditorOgGithubTilmelding.md)
+* [Tekst Editor og Github tilmelding](/dokumenter/TekstEditorOgGithubTilmelding.md)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Udover undervisningen

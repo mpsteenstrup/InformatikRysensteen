@@ -1,5 +1,5 @@
-# Brackets teksetditor
-Vi har brug for en editor som ikke laver om i koden, som Word gør. Vi bruger Brackets som en open source editor, [Brackets](https://brackets.io).
+# Teksetditor
+Vi har brug for en editor som ikke laver om i koden, som Word gør. I kan bruger Brackets som en open source editor, [Brackets](https://brackets.io), eller Microsofts Visual Studio Code, [VS Code download](https://code.visualstudio.com/download).
 
 ## Github konto
 I skal have en Github konto for at kunne bruge Teletype. Det mega fedt at have en Github konto og det er gratis. I kan oprette jer her, [github.com](https://github.com/), vælge et fornuftigt navn det hænger ved.
