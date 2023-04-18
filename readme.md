@@ -16,7 +16,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Designfasen](dokumenter/Designfasen.md)
 * [Farver](dokumenter/farver.md)
 * [Gestaltlovene](dokumenter/gestaltlovene.md)
-* [Interaktionsdesign](dokumenter/interaktionsdesign.MD)
+* [Interaktionsdesign](dokumenter/interaktionsdesign.md)
 * [Trelagsarkitektur](dokumenter/Tre-lags-arkitektur.md)
 * [Hvad er www](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/filer/Webteknologier1.pdf)
 * [Flowchart](dokumenter/flowchart.md)
