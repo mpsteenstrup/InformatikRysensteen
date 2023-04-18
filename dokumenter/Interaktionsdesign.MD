@@ -11,6 +11,7 @@ Der er mange måder at lave godt design og ingen strikse love. For at hjælpe de
 
 Steve Krug skrev bogen **Don't make me thin** om human-computer interaktion.
 
+
 ### Øvelse
 * Hvorfor søren er det en god designstrategi at brugeren ikke skal tænke sig om?
 
