@@ -9,8 +9,7 @@ Vi holder os til design af interaktionen mellem bruger og det digitale medie vi 
 
 Der er mange måder at lave godt design og ingen strikse love. For at hjælpe designprocessen er der lavet en række heurestikker. NB! heurestik er et flot ord men betyder bare tommelfingerregel, så ved I det.
 
-Steve Krug skrev bogen **Don't make me thin** om human-computer interaktion.
-
+Steve Krug skrev bogen **Don't make me think** om human-computer interaktion.
 
 ### Øvelse
 * Hvorfor søren er det en god designstrategi at brugeren ikke skal tænke sig om?
