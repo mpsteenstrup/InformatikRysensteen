@@ -90,3 +90,4 @@ Det betyder ikke at jeg ikke modtager tilmeldingen, men afsenderen er usikker p√
 ## St√∏j i kommunikationen
 
 [innovation.sites.ku.dk/metode/brainwalking/](https://innovation.sites.ku.dk/metode/brainwalking/)
+
