@@ -1,14 +1,11 @@
 # Interaktionsdesign, AIDA, rapid prototyping og idegenerering
-
 ## AIDA modellen
-
 ![AIDA](/billeder/AIDA.jpeg)
-
 kilde: iftek.dk/aids-s
 
 AIDA er en model, der handler om at analysere reklamer. Reklamer kan her forstås ret overordnet, så det kan sådan ser være enhver tekst, der har et budskab, som læseren eller forbrugeren skal reagere på. Modellen kan derfor også anvendes til at analysere test, spil, websites m.m. Man kan sige, det handler om at skabe visuelle udtryk, altså om brugergrænseflader kan sælge!
 
-* ttention: Er der noget, der fanger brugerens opmærksomhed? (fx et rigtigt flot billede af en ung, der smiler med perfekte, hvide tænder)
+* Atention: Er der noget, der fanger brugerens opmærksomhed? (fx et rigtigt flot billede af en ung, der smiler med perfekte, hvide tænder)
 * Interest: Er der noget det skaber brugerens interesse, fx en lokke-tekst? (fx sætningen "Hvide tænder *er* bare smukkere!")
 * Desire: Er der noget, der omdanner denne interesse til et konkret behov? (fx sætningen: "Du kan også få smukke, hvide tænder!)
 * Action: Er der noget der leder brugeren hen til en konkret handling, der kan tilfredsstille dette behov, fx at købe et produkt, melde sig ind, stemme på et parti eller lignende? (Fx tryk her for at lægge en pakke MACSO-tandpaste i varekurven!").

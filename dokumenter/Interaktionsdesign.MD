@@ -58,7 +58,7 @@ Kommunikationen er:
 
 Svaret er nej, vi ventede i sommerhuset mens de tog til Nygaarden, vi fik dog blåbær!
 * Overvej hver af de fire punkter i forhold til kommunikationen.
-*  Kom med en ting jeg kunne have gjort.
+* Kom med en ting jeg kunne have gjort.
 * Kom med en ting min mor kunne have gjort.
 
 ### Besværligt at kommunikere.
@@ -88,6 +88,5 @@ Det betyder ikke at jeg ikke modtager tilmeldingen, men afsenderen er usikker p�
 * Overvej hvordan I vil vise at jeres program kører, så brugeren ikke bliver usikker.
 
 ## Støj i kommunikationen
-
 [innovation.sites.ku.dk/metode/brainwalking/](https://innovation.sites.ku.dk/metode/brainwalking/)
 
