@@ -1,41 +1,15 @@
-# Interaktionsdesign, AIDA, rapid prototyping og idegenerering
-## AIDA modellen
-![AIDA](billeder/AIDA.jpeg)
-kilde: iftek.dk/aids-s
+# Innovation, rapid prototyping og idegenerering
 
-AIDA er en model, der handler om at analysere reklamer. Reklamer kan her forstås ret overordnet, så det kan sådan ser være enhver tekst, der har et budskab, som læseren eller forbrugeren skal reagere på. Modellen kan derfor også anvendes til at analysere test, spil, websites m.m. Man kan sige, det handler om at skabe visuelle udtryk, altså om brugergrænseflader kan sælge!
-
-* Atention: Er der noget, der fanger brugerens opmærksomhed? (fx et rigtigt flot billede af en ung, der smiler med perfekte, hvide tænder)
-* Interest: Er der noget det skaber brugerens interesse, fx en lokke-tekst? (fx sætningen "Hvide tænder *er* bare smukkere!")
-* Desire: Er der noget, der omdanner denne interesse til et konkret behov? (fx sætningen: "Du kan også få smukke, hvide tænder!)
-* Action: Er der noget der leder brugeren hen til en konkret handling, der kan tilfredsstille dette behov, fx at købe et produkt, melde sig ind, stemme på et parti eller lignende? (Fx tryk her for at lægge en pakke MACSO-tandpaste i varekurven!").
-
-Alle punkter behøver ikke være til stede i en god reklame, men det er en overordnet model for gode reklamer.
-
-* Satisfaction
-Nogle har forsøgt at tilføje et S til modellen for Satisfaction/tilfredshed, altså hvordan brugerne kommer til at vende tilbage, anbefaler produktet til andre. Det kunne fx være "Tryk her for at like MACSO" eller knapper til at anbefale tandpastaen på sociale medier eller muligheder for at anbefale på TRUSTPILOT eller lign.
-
-## Målgruppe og Persona
-For at kunne bruge AIDA modellen skal man afgrænse målgruppen. Det er vigtigt at produktet ikke bare er til alle, for hvordan vinkler man sit produkt så det netop appellere til alle? Generelt vil det være lettere at begrunde sine valg hvis man fokusere på en relativt lille målgruppe. En måde at gøre målgruppen konkret på er at arbejde med personaer. Det er fiktive personer som kunne tilhøre målgruppen.
-
-Ved udviklingen af borger.dk blev der udarbejdet 6 personaer
-* Camilla og Jesper - "De selvkørende"
-* Claus - "De velvillige"
-* Johannes - "De unge borgere"
-* Amina - "De tøvende"
-* Verner - "De IT-fremmede"
-* Florian - "I Danmark for en kort periode"
-kilde: [Personas for borger.dk](https://www.yumpu.com/da/document/read/18275658/personas-for-borgerdk)
-
-Det er også samlet i brochuren [Personas brogerDK](Personas_borgerDK.pdf)
-
-## Øvelse
-* Find Amina i brochuren.
-* Læs det første afsnit, og diskuter hvorfor de laver en så detaljeret personbeskrivelse.
-
+## Iterativ arbejdsprices
+Ved udvikling af IT-systemer bruger vi en iterativ arbejdsform. Roger har beskrevet hele forløbet i tilblivelsen af et IT-system. Som I kan se er det hele forbundet og det er meningen at man bevæger sig mellem alle boblerne og kommer tilbage til dem flere gange i processen. Dette skal ses i kontrast til en lineær arbejdsmodel, hvor der arbejdes fra krav og specfikationer gennem design og udarbejdelse til resultat.
+![Iterativ arbejdsproces](billeder/iterativArbejdsproces.png)
 ### Øvelse
-Vi vil nu gerne have Amira til at bevæge sig mere med et spil vi har lavet.
-* Brug Amina som case og overvej hvilke valg man skal træffe i forhold til AIDA modellen for at det lykkes.
+* Beskriv de forskellige delelementer i interaktionsdesignet ud fra modellen.
+* Beskriv fordelene ved at arbejde iterativt når man arbejder med produktudvikling.
+* Beskriv hvorfor modellen ikke altid bliver brugt.
+
+I jeres arbejde vil I ofte arbejde med delelementer af den iterative proces.
+
 
 
 ## Rapid prototyping
