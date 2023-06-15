@@ -13,7 +13,10 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Teori
 * [Innovation](dokumenter/innovation.md)
-
+    * [Iterativ arbejdsprocess](dokumenter/innovation.md#iterativ-arbejdsprocess)
+    * [Rapid prototyping](dokumenter/innovation.md#rapid-prototyping)
+    * [Idegenerering](#idegenerering)
+    * [Målgruppe og persone](#målgruppe-og-persona)
 * [Interaktionsdesign](dokumenter/Interaktionsdesign.MD)
     * Designpringipper
     * AIDA
