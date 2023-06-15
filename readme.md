@@ -13,10 +13,12 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Teori
 * [Innovation](dokumenter/innovation.md)
-* [Designfasen](dokumenter/Designfasen.md)
-* [Farver](dokumenter/farver.md)
-* [Gestaltlovene](dokumenter/gestaltlovene.md)
+
 * [Interaktionsdesign](dokumenter/Interaktionsdesign.MD)
+    * Designpringipper
+    * AIDA
+    * Farver
+    * Gestaltlovene
 * [Trelagsarkitektur](dokumenter/Tre-lags-arkitektur.md)
 * [Hvad er www](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/filer/Webteknologier1.pdf)
 * [Flowchart](dokumenter/flowchart.md)
