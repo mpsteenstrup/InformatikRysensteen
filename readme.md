@@ -18,13 +18,14 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
     * [Idegenerering](#idegenerering)
     * [Målgruppe og persone](#målgruppe-og-persona)
 * [Interaktionsdesign](dokumenter/Interaktionsdesign.MD)
-    * Designpringipper
-    * AIDA
-    * Farver
-    * Gestaltlovene
+    * [Designpringipper](dokumenter/Interaktionsdesign.MD#designprincipper))
+    * [AIDA](dokumenter/Interaktionsdesign.MD#aida-modellen)
+    * [Farver](dokumenter/Interaktionsdesign.MD#farver)
+    * [Gestaltlovene](dokumenter/Interaktionsdesign.MD#gestaltlovene)
 * [Trelagsarkitektur](dokumenter/Tre-lags-arkitektur.md)
 * [Hvad er www](https://github.com/mpsteenstrup/mpsteenstrup.github.io/blob/master/filer/Webteknologier1.pdf)
 * [Flowchart](dokumenter/flowchart.md)
+
 
 
 ## Praktisk
