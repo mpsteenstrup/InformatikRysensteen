@@ -21,6 +21,6 @@ opsætning af webside
 * Ind under ```Settings```(tandhjulet).
 * Scroll ned til ```GithubPages``` under ```source```vælg ```master``` og ```save```.
 * Scroll ned igen og link find addressen. Hvis siden ikke viser sig så tilføj ``ìndex.html```i url addressen, eks. ```https://mpsteenstrup.github.io/githubTestmmSpil/index.html ``` .
-
+* Kopier linket ind på jeres hjemmeside, så kan I altid finde den fra Github siden.
 Her er en mumlevideo om hvordan man opsætter github rigtigt. Det er ikke lige så let.
 [https://youtu.be/8IQjE56NIoU](https://youtu.be/8IQjE56NIoU)
