@@ -62,7 +62,7 @@ Vi skal i gang med idegenerering hvor vi skal lave nogen øvelser. Øvelserne br
 
 Vi skal bruge øvelsen **Brainwalkig**. Det er en afart af den normale brainstorm, men her bliver I tvunget til at forholde jer til de andres ideer og selv bidrage til deres udvikling.
 
-## Øvelse - brainwalking
+### Øvelse - brainwalking
 Øverst på papiret skal I skrive
 * Hvad er jeres målgruppe.
 * Hvilket problem prøver I at løse.

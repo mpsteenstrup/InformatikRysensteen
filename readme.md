@@ -32,7 +32,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Praktisk
 * [Logbog](dokumenter/Logbog.md)
 * [Tekst Editor og Github tilmelding](/dokumenter/TekstEditorOgGithubTilmelding.md)
-* [Visual Studio Code](https://code.visualstudio.com/)
+
 
 ## Udover undervisningen
 * [Cyber Skills Mesterskaberne 2022, 28. og 29. oktober](https://community.cyberskills.dk/csmesterskab/)
