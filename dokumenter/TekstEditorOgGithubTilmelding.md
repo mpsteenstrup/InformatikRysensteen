@@ -1,8 +1,7 @@
-# Teksetditor
+# Teksteditor
 Vi har brug for en editor som ikke laver om i koden, som Word gør. Microsofts Visual Studio Code, [VS Code download](https://code.visualstudio.com/download), er det bedste på markedet lige nu.
 
-Introduktion til VS-Code
-![Introduktion til vs-code](https://www.youtube.com/watch?v=iCtMxhW51dc)
+![Introduktion til VS-Code](https://www.youtube.com/watch?v=iCtMxhW51dc)
 
 ## Github konto
 I skal have en Github konto for at kunne bruge Teletype. Det mega fedt at have en Github konto og det er gratis. I kan oprette jer her, [github.com](https://github.com/), vælge et fornuftigt navn det hænger ved.
