@@ -14,3 +14,5 @@ Jeres logbog skal indeholde
 
 ## Eksempel på en logbog
 [Eksempel på en logbog](https://sites.google.com/rysensteen.dk/eksempel-paa-logbog/start?authuser=1)
+
+## Opsætning af logbog
