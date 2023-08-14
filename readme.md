@@ -1,15 +1,11 @@
-# Informatik 2022/23
+# Informatik 2023/24
 
 Her er en samlet oversigt over det materiale der ligger til informatikundervisning.
 
 [Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
 
 ## Projekter
-* [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
-* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
-* [Machine Learning](https://github.com/mpsteenstrup/ML)
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
-* [Databaser](https://github.com/mpsteenstrup/databaser)
 
 ## Teori
 * [Innovation](dokumenter/innovation.md)
@@ -40,5 +36,16 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Tidligere Projekter
+### 2022/2023 projekter
+* [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
+* [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
+* [Machine Learning](https://github.com/mpsteenstrup/ML)
+
+* [Databaser](https://github.com/mpsteenstrup/databaser)
+
+
+
+
+
 * [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
 * [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
