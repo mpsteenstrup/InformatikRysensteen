@@ -2,11 +2,11 @@
 
 Her er en samlet oversigt over det materiale der ligger til informatikundervisning.
 
-[Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
-
+* [Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
+* [Elevpræsentationer](dokumenter/elevpræsentationer.md)
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
-* [Elevpræsentationer](dokumenter/elevpræsentationer.md)
+
 
 
 ## Teori
