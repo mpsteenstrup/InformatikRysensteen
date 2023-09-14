@@ -4,10 +4,10 @@ I skal lave et elevoplæg hver om noget inden for teknologi, IT og mennesker. I 
 * Opsøge så meget viden om emnet som muligt (husk at være kildekritisk).
 * Udvælge det væsentligste materiale og lave en struktur.
 * Lave en præsentation i google slides med.
-** En pointe pr. side.
-** Få farver.
-** Få fonte.
-** Gerne et billede/en illustration pr. side.
+* * En pointe pr. side.
+* * Få farver.
+* * Få fonte.
+* * Gerne et billede/en illustration pr. side.
 * Træne dit oplæg.
 * Lægge et link til præsentationen i din logbog.
 
