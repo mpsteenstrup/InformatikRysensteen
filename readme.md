@@ -6,6 +6,8 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
+* []Elevpræsentationer](dokumenter/elevpræsentationer.md)
+
 
 ## Teori
 * [Innovation](dokumenter/innovation.md)
@@ -32,7 +34,6 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Udover undervisningen
 * [Cyber Skills Mesterskaberne 2022, 28. og 29. oktober](https://community.cyberskills.dk/csmesterskab/)
-* [Astro-Pi camp 16. og 17. januar](http://iftek.dk/mission-spacecamp-2023)
 
 
 ## Tidligere Projekter
