@@ -6,7 +6,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
-* []Elevpræsentationer](dokumenter/elevpræsentationer.md)
+* [Elevpræsentationer](dokumenter/elevpræsentationer.md)
 
 
 ## Teori
