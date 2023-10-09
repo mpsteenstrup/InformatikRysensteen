@@ -2,6 +2,7 @@
 Vi har brug for en editor som ikke laver om i koden, som Word gør. Microsofts Visual Studio Code, [VS Code download](https://code.visualstudio.com/download), er det bedste på markedet lige nu.
 
 ![Introduktion til VS-Code](https://www.youtube.com/watch?v=iCtMxhW51dc)
+
 ![Link til folder her ](https://github.com/mpsteenstrup/webteknologier/tree/main/portfolieTemplate)
 
 ## Github konto
