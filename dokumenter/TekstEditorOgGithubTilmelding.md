@@ -1,5 +1,5 @@
 # Teksteditor
-Vi har brug for en editor som ikke laver om i koden, som Word gør. Microsofts Visual Studio Code, [VS Code download](https://code.visualstudio.com/download), er det bedste på markedet lige nu.
+Vi har brug for en editor som ikke laver om i koden, som Word gør. Microsofts Visual Studio Code, ![VS Code download](https://code.visualstudio.com/download), er det bedste på markedet lige nu.
 
 ![Introduktion til VS-Code](https://www.youtube.com/watch?v=iCtMxhW51dc)
 
@@ -19,10 +19,10 @@ Folderen skal indeholder;
 * en index fil, ```index.html```.
 
 
-opsætning af webside
+### Opsætning af webside
 * Ind under ```Settings```(tandhjulet).
 * Scroll ned til ```GithubPages``` under ```source```vælg ```master``` og ```save```.
 * Scroll ned igen og link find addressen. Hvis siden ikke viser sig så tilføj ``ìndex.html```i url addressen, eks. ```https://mpsteenstrup.github.io/webteknologier/InformatikRysensteen/index.html ``` .
 * Kopier linket ind på jeres hjemmeside, så kan I altid finde den fra Github siden.
 Her er en mumlevideo om hvordan man opsætter github rigtigt. Det er ikke lige så let.
-[https://youtu.be/8IQjE56NIoU](https://youtu.be/8IQjE56NIoU)
+![https://youtu.be/8IQjE56NIoU](https://youtu.be/8IQjE56NIoU)
