@@ -16,3 +16,16 @@ Jeres logbog skal indeholde
 [Eksempel på en logbog](https://sites.google.com/rysensteen.dk/eksempel-paa-logbog/start?authuser=1)
 
 ## Opsætning af logbog
+Her kommer et eksempel på en simpel hjemmeside. I kan bruge den som udgangspunkt til at lave jeres egne sider.
+
+### Øvelse
+* Lav en mappe som hedder logbog i mappen ingformatik (hvis I ikke har sådan en mappe er det på tide I får en!).
+* Download alle filerne fra dette link, [portfolietemplate](https://github.com/mpsteenstrup/webteknologier/tree/main/portfolieTemplate)
+* Dobbeltklik på ```index.html``` og undersøg hjemmesiden.
+
+## Rettigheder
+Hvis I gør siden tilgængelig for alle, skal I overveje om I har rettigheder til det som ligger på. Det er især billeder og lyd som kan give problemer.
+Hvis man bruger googles søgemaskine kan man få de billeder frem som er under Creative Common licensen. Det vil sige at man godt må bruge dem hvis man vælger ``billeder -> tools -> User Rights -> CC``.
+
+
+Hvis I skal bruge lyd kan [https://freesound.org](https://freesound.org) bruges.
