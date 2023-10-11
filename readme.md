@@ -33,7 +33,9 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Udover undervisningen
-* [Cyber Skills Mesterskaberne 2022, 28. og 29. oktober](https://community.cyberskills.dk/csmesterskab/)
+* [Dansk datalogidyst 2023](https://danskdatalogidyst.blob.core.windows.net/web/Plakat2024.pdf?se=2023-10-11T06%3A32%3A23Z&sp=r&sv=2019-02-02&sr=b&sig=NhguFdn/yhSY5UtEbSKijKsAnLVWCZxrFZGJWPHmT0k%3D)
+* [Cyber Skills](https://www.cyberskills.dk/events)
+
 
 
 ## Tidligere Projekter
