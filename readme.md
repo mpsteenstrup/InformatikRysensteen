@@ -6,6 +6,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Elevpræsentationer](dokumenter/elevpræsentationer.md)
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
+* [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
 
 
 
@@ -33,14 +34,13 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Udover undervisningen
-* [Dansk datalogidyst 2023](https://danskdatalogidyst.blob.core.windows.net/web/Plakat2024.pdf?se=2023-10-11T06%3A32%3A23Z&sp=r&sv=2019-02-02&sr=b&sig=NhguFdn/yhSY5UtEbSKijKsAnLVWCZxrFZGJWPHmT0k%3D)
+* [Dansk datalogidyst 2023](https://danskdatalogidyst.dk/)
 * [Cyber Skills](https://www.cyberskills.dk/events)
 
 
 
 ## Tidligere Projekter
 ### 2022/2023 projekter
-* [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
 * [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
 * [Machine Learning](https://github.com/mpsteenstrup/ML)
 
