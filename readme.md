@@ -7,7 +7,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
 * [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
-* [Internetsikerhed](document/internetsikkerhed.md)
+* [Internetsikerhed](documenter/internetsikkerhed.md)
 
 
 ## Teori
