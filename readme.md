@@ -4,10 +4,15 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 * [Præsentation](https://docs.google.com/presentation/d/1E2EzIPwxrD4eAzOTbr2yw3tNFNCTOAGvcdr0WCUFcBg/edit?usp=sharing)
 * [Elevpræsentationer](dokumenter/elevpræsentationer.md)
+* [Informatik på Rysensteen](https://mpsteenstrup.github.io/webteknologier/InformatikRysensteen/index.html)
+
+
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
 * [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
 * [Internetsikerhed](dokumenter/itsikkerhed.md)
+* [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
+
 
 
 ## Teori
@@ -45,10 +50,4 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Machine Learning](https://github.com/mpsteenstrup/ML)
 
 * [Databaser](https://github.com/mpsteenstrup/databaser)
-
-
-
-
-
-* [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
 * [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
