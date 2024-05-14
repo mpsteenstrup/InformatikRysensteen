@@ -138,3 +138,6 @@ Eksempel på hvordan ChatGPT kan placeres i 4p-modellen.
 | **Paradigmeinnovation** | Skift i måden kunstig intelligens integreres i hverdagen og i forskellige industrier, og udfordrer traditionelle metoder for interaktion, informationssøgning og automatisering. |
 
 ChatGPT eksemplificerer, hvordan en enkelt innovation kan spænde over flere dimensioner af 4P-modellen, hvilket viser dens brede indvirkning og transformative potentiale.
+
+### 4p visuelt
+![4p-modellen](billeder/4p.png)
