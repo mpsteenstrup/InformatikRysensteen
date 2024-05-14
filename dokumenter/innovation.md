@@ -94,7 +94,7 @@ Vi vil nu gerne have Amira til at bevæge sig mere med et spil vi har lavet.
 * Brug Amina som case og overvej hvilke valg man skal træffe i forhold til AIDA modellen for at det lykkes.
 
 # 4p-model måling af innovation
-
+4p-modellen bruges til at måle innovatio. Her får I nogle eksemplet.
 
 
 | **Type af Innovation**              | **Radikale Innovationer**                                                                                           | **Inkrementelle Innovationer**                                                                                           |
@@ -127,8 +127,8 @@ Vi vil nu gerne have Amira til at bevæge sig mere med et spil vi har lavet.
 **Definition**: Paradigme-innovation indebærer fundamentale ændringer i de grundlæggende modeller, tankesæt eller forretningsmodeller, der styrer en organisation eller industri. Det skaber nye måder at tænke på og gør det muligt at transformere markeder og brancher.
 
 
-## Opsummeringstabel
-
+## ChatGPT innovation
+Eksempel på hvordan ChatGPT kan placeres i 4p-modellen.
 | **Type af Innovation**  | **Eksempler på ChatGPT**                                                                                             |
 |-------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Produktinnovation**   | ChatGPT som et nyt produkt, der tilbyder avancerede samtaleevner drevet af kunstig intelligens.                       |
