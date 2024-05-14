@@ -15,12 +15,15 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 * [Machine Learning](https://github.com/mpsteenstrup/ML)
 * [Databaser](https://github.com/mpsteenstrup/databaser)
 
+
 ## Teori
 * [Innovation](dokumenter/innovation.md)
     * [Iterativ arbejdsprocess](dokumenter/innovation.md#iterativ-arbejdsprocess)
     * [Rapid prototyping](dokumenter/innovation.md#rapid-prototyping)
     * [Idegenerering](dokumenter/innovation.md#idegenerering)
     * [Målgruppe og persone](dokumenter/innovation.md#målgruppe-og-persona)
+    * [4p-model måling af innovation](dokumenter/innovation.md#4p-model-måling-af-innovation)
+
 
 * [Interaktionsdesign](dokumenter/Interaktionsdesign.MD)
     * [Designpringipper](dokumenter/Interaktionsdesign.MD#designprincipper)

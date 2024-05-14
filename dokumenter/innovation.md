@@ -4,6 +4,7 @@
 * [Rapid prototyping](#rapid-prototyping)
 * [Idegenerering](#idegenerering)
 * [Målgruppe og persone](#målgruppe-og-persona)
+* [4p-model måling af innovation](#4p-model-måling-af-innovation)
 
 # Innovation
 Ifølge wikipedia er innovation
