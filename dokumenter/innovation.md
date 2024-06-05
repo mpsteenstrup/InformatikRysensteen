@@ -1,10 +1,11 @@
 ### Indholdsfortegnelse
 * [Innovation](#innovation)
+* [4p-model måling af innovation](#4p-model-måling-af-innovation)
 * [Iterativ arbejdsprocess](#iterativ-arbejdsprocess)
 * [Rapid prototyping](#rapid-prototyping)
 * [Idegenerering](#idegenerering)
 * [Målgruppe og persone](#målgruppe-og-persona)
-* [4p-model måling af innovation](#4p-model-måling-af-innovation)
+
 
 # Innovation
 Ifølge wikipedia er innovation
@@ -15,7 +16,73 @@ I gymnasiet bruger vi ofte at det skal være
 * Nyt
 * Nyttigt
 * Nyttiggjort
+
 som beskrevet af KL i  Handlingsplan for Center for Offentlig Innovation.
+
+# 4p-model måling af innovation
+Graden af innovation kan måles på mange måder. I 4p-modellen måles på fire innovationstyper som svarer nogenlunde til OECDs definitioner. Der skelnes derudover mellem radikal og inkrementel innovation. 
+ Her får I nogle eksemplet.
+
+
+| **Type af Innovation**              | **Radikale Innovationer**                                                                                           | **Inkrementelle Innovationer**                                                                                           |
+|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Produktinnovation**               | - Personlige computere (PC'er): Transformerede computing fra centraliserede mainframes til individuelle desktops.   | - Nye versioner af smartphones med forbedrede kameraer og batterilevetid.                                                |
+|                                     | - Smartphones: Kombinerede flere funktionaliteter (telefon, computer, kamera) i en enkelt enhed.                   | - Forbedrede modeller af elbiler med længere rækkevidde og hurtigere opladning.                                          |
+|                                     | - Elbiler (f.eks. Tesla): Introducerede bæredygtige elbiler som et alternativ til forbrændingsmotorer.             | - Opdateringer af software til PC'er med nye funktioner og bedre ydeevne.                                                |
+|                                     | - 3D-printing: Muliggjorde skabelse af fysiske objekter fra digitale modeller.                                     | - Nye materialer til 3D-printing, der forbedrer styrken og fleksibiliteten af printede objekter.                        |
+| **Procesinnovation**                | - CRISPR-Cas9 genredigering: Revolutionerede genetisk forskning og terapi med præcise genredigeringsmuligheder.    | - Optimering af produktionslinjer for at reducere spild og øge effektiviteten.                                           |
+|                                     | - Kunstig intelligens (AI) og maskinlæring: Transformerede databehandling og beslutningsprocesser.                 | - Implementering af AI-værktøjer til kundesupport for hurtigere og mere præcise svar.                                    |
+|                                     | - Vedvarende energiteknologier (f.eks. sol- og vindenergi): Introducerede nye processer til bæredygtig energiproduktion. | - Forbedringer i solcelleeffektivitet og -levetid gennem teknologiske opdateringer.                                      |
+| **Positionsinnovation**             | - Internettet: Skabte nye markeder for e-handel, sociale medier og onlinetjenester.                                | - Udvidelse af eksisterende produkter til nye geografiske markeder.                                                      |
+|                                     | - Streaming-tjenester (f.eks. Netflix): Ændrede medieforbrug til on-demand digital streaming.                      | - Introduktion af nye funktioner på streamingplatforme, såsom offline downloads og personlige anbefalinger.              |
+| **Paradigmeinnovation**             | - Blockchain-teknologi: Introducerede decentraliserede transaktionssystemer, der påvirkede finansielle tjenester og mere. | - Forbedringer i eksisterende sikkerhedsprotokoller for bedre databeskyttelse.                                           |
+|                                     | - Kunstig intelligens (AI) og maskinlæring: Ændrede paradigmet for dataanvendelse og beslutningstagning.           | - Integration af maskinlæring i eksisterende systemer for at forbedre prædiktioner og beslutningstagning.                |
+|                                     | - Internettet: Fundamentalt ændret kommunikation, informationsdeling og forretningsmodeller på globalt plan.       | - Forbedringer i internetinfrastruktur for højere hastigheder og bedre tilslutning.                                      |
+
+# De Fire Typer af Innovation
+
+### 1. Produkt-innovation
+Produktinnovation involverer udvikling af nye produkter eller væsentlige forbedringer af eksisterende produkter. Det fokuserer på at forbedre eller introducere nye funktioner, design eller ydeevne i produkterne.
+
+### 2. Proces-innovation
+Procesinnovation refererer til ændringer i de måder, hvorpå produkter eller tjenester skabes og leveres. Det omfatter nye eller forbedrede metoder, teknologier eller systemer, der øger effektiviteten, reducerer omkostninger eller forbedrer kvaliteten.
+
+### 3. Positions-innovation
+Positionsinnovation handler om ændringer i konteksten, hvor produkterne eller tjenesterne introduceres. Det involverer at finde nye markeder eller nye anvendelser for eksisterende produkter, eller at ændre den måde, et produkt opfattes af markedet.
+
+### 4. Paradigme-innovation
+Paradigme-innovation indebærer fundamentale ændringer i de grundlæggende modeller, tankesæt eller forretningsmodeller, der styrer en organisation eller industri. Det skaber nye måder at tænke på og gør det muligt at transformere markeder og brancher.
+
+**Incrementel** innovation foregår i små skridt og er ofte forbedringer af eksisterende produkter. Ved **radikal** innovation sker der store ændringer som eks. kan ændre markedet eller folks liv. Der er ikke en skarp skillelinje. 
+
+
+## ChatGPT innovation
+Eksempel på hvordan ChatGPT kan placeres i 4p-modellen.
+| **Type af Innovation**  | **Eksempler på ChatGPT**                                                                                             |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Produktinnovation**   | ChatGPT som et nyt produkt, der tilbyder avancerede samtaleevner drevet af kunstig intelligens.                       |
+| **Procesinnovation**    | Udvikling og implementering af avancerede processer som deep learning og naturlig sprogbehandling.                   |
+| **Positionsinnovation** | Ændring af anvendelserne af teknologi ved at finde nye applikationer inden for kundesupport, indholdsgenerering, undervisning og mere. |
+| **Paradigmeinnovation** | Skift i måden kunstig intelligens integreres i hverdagen og i forskellige industrier, og udfordrer traditionelle metoder for interaktion, informationssøgning og automatisering. |
+
+ChatGPT eksemplificerer, hvordan en enkelt innovation kan spænde over flere dimensioner af 4P-modellen, hvilket viser dens brede indvirkning og transformative potentiale.
+
+### 4p visuelt
+4p modellen kan visualiseres som vis i diagrammet. Jo længere man ligger fra midten jo større grad af innovation.
+![4p-modellen](billeder/4p.png)
+### Eksempel - E-aviser
+Politiken leverer som de fleste andre både en elektronisk- og en papirversion af deres avis. Den elektroniske version er en direkte kopi af deres papiravis, med få undtagelser, eks. at reklamer har aktive links. Vi kan prøve at analysere den elektroniske avis med 4p-modellen ved at give hver kategori 0-5 points.
+* Produkt, samme produkt, 0.
+* Proces, ny måde at distribuere avisen, 4.
+* Position, ny tilgængelighed på telefon og tablet som folk har i hånden ofte, 3.
+* Paradigme, same old, 0.
+
+Visuelt kan det se sådanne ud.
+![4p-modellen](billeder/4p_avis.png)
+Som det ses er det primært i *proces* innovation i dette tilfælde.
+
+### Øvelse
+Lav samme analyse, men nu af hjemmesiden politiken.dk, hvor I sammenligner med den trykte avis.
 
 ### Øvelse
 * Beskriv hvad der er forskellen på de tre begreber, *nyt,nyttigt,nyttiggjort*.
@@ -94,50 +161,3 @@ Det er også samlet i brochuren [Personas brogerDK](Personas_borgerDK.pdf)
 Vi vil nu gerne have Amira til at bevæge sig mere med et spil vi har lavet.
 * Brug Amina som case og overvej hvilke valg man skal træffe i forhold til AIDA modellen for at det lykkes.
 
-# 4p-model måling af innovation
-4p-modellen bruges til at måle innovatio. Her får I nogle eksemplet.
-
-
-| **Type af Innovation**              | **Radikale Innovationer**                                                                                           | **Inkrementelle Innovationer**                                                                                           |
-|-------------------------------------|--------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Produktinnovation**               | - Personlige computere (PC'er): Transformerede computing fra centraliserede mainframes til individuelle desktops.   | - Nye versioner af smartphones med forbedrede kameraer og batterilevetid.                                                |
-|                                     | - Smartphones: Kombinerede flere funktionaliteter (telefon, computer, kamera) i en enkelt enhed.                   | - Forbedrede modeller af elbiler med længere rækkevidde og hurtigere opladning.                                          |
-|                                     | - Elbiler (f.eks. Tesla): Introducerede bæredygtige elbiler som et alternativ til forbrændingsmotorer.             | - Opdateringer af software til PC'er med nye funktioner og bedre ydeevne.                                                |
-|                                     | - 3D-printing: Muliggjorde skabelse af fysiske objekter fra digitale modeller.                                     | - Nye materialer til 3D-printing, der forbedrer styrken og fleksibiliteten af printede objekter.                        |
-| **Procesinnovation**                | - CRISPR-Cas9 genredigering: Revolutionerede genetisk forskning og terapi med præcise genredigeringsmuligheder.    | - Optimering af produktionslinjer for at reducere spild og øge effektiviteten.                                           |
-|                                     | - Kunstig intelligens (AI) og maskinlæring: Transformerede databehandling og beslutningsprocesser.                 | - Implementering af AI-værktøjer til kundesupport for hurtigere og mere præcise svar.                                    |
-|                                     | - Vedvarende energiteknologier (f.eks. sol- og vindenergi): Introducerede nye processer til bæredygtig energiproduktion. | - Forbedringer i solcelleeffektivitet og -levetid gennem teknologiske opdateringer.                                      |
-| **Positionsinnovation**             | - Internettet: Skabte nye markeder for e-handel, sociale medier og onlinetjenester.                                | - Udvidelse af eksisterende produkter til nye geografiske markeder.                                                      |
-|                                     | - Streaming-tjenester (f.eks. Netflix): Ændrede medieforbrug til on-demand digital streaming.                      | - Introduktion af nye funktioner på streamingplatforme, såsom offline downloads og personlige anbefalinger.              |
-| **Paradigmeinnovation**             | - Blockchain-teknologi: Introducerede decentraliserede transaktionssystemer, der påvirkede finansielle tjenester og mere. | - Forbedringer i eksisterende sikkerhedsprotokoller for bedre databeskyttelse.                                           |
-|                                     | - Kunstig intelligens (AI) og maskinlæring: Ændrede paradigmet for dataanvendelse og beslutningstagning.           | - Integration af maskinlæring i eksisterende systemer for at forbedre prædiktioner og beslutningstagning.                |
-|                                     | - Internettet: Fundamentalt ændret kommunikation, informationsdeling og forretningsmodeller på globalt plan.       | - Forbedringer i internetinfrastruktur for højere hastigheder og bedre tilslutning.                                      |
-
-# De Fire Typer af Innovation
-
-## 1. Produkt-innovation
-**Definition**: Produktinnovation involverer udvikling af nye produkter eller væsentlige forbedringer af eksisterende produkter. Det fokuserer på at forbedre eller introducere nye funktioner, design eller ydeevne i produkterne.
-
-## 2. Proces-innovation
-**Definition**: Procesinnovation refererer til ændringer i de måder, hvorpå produkter eller tjenester skabes og leveres. Det omfatter nye eller forbedrede metoder, teknologier eller systemer, der øger effektiviteten, reducerer omkostninger eller forbedrer kvaliteten.
-
-## 3. Positions-innovation
-**Definition**: Positionsinnovation handler om ændringer i konteksten, hvor produkterne eller tjenesterne introduceres. Det involverer at finde nye markeder eller nye anvendelser for eksisterende produkter, eller at ændre den måde, et produkt opfattes af markedet.
-
-## 4. Paradigme-innovation
-**Definition**: Paradigme-innovation indebærer fundamentale ændringer i de grundlæggende modeller, tankesæt eller forretningsmodeller, der styrer en organisation eller industri. Det skaber nye måder at tænke på og gør det muligt at transformere markeder og brancher.
-
-
-## ChatGPT innovation
-Eksempel på hvordan ChatGPT kan placeres i 4p-modellen.
-| **Type af Innovation**  | **Eksempler på ChatGPT**                                                                                             |
-|-------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **Produktinnovation**   | ChatGPT som et nyt produkt, der tilbyder avancerede samtaleevner drevet af kunstig intelligens.                       |
-| **Procesinnovation**    | Udvikling og implementering af avancerede processer som deep learning og naturlig sprogbehandling.                   |
-| **Positionsinnovation** | Ændring af anvendelserne af teknologi ved at finde nye applikationer inden for kundesupport, indholdsgenerering, undervisning og mere. |
-| **Paradigmeinnovation** | Skift i måden kunstig intelligens integreres i hverdagen og i forskellige industrier, og udfordrer traditionelle metoder for interaktion, informationssøgning og automatisering. |
-
-ChatGPT eksemplificerer, hvordan en enkelt innovation kan spænde over flere dimensioner af 4P-modellen, hvilket viser dens brede indvirkning og transformative potentiale.
-
-### 4p visuelt
-![4p-modellen](billeder/4p.png)
