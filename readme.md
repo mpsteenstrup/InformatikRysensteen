@@ -19,10 +19,11 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Teori
 * [Innovation](dokumenter/innovation.md)
     * [Iterativ arbejdsprocess](dokumenter/innovation.md#iterativ-arbejdsprocess)
+    * [4p-model måling af innovation](dokumenter/innovation.md#4p-model-måling-af-innovation)
     * [Rapid prototyping](dokumenter/innovation.md#rapid-prototyping)
     * [Idegenerering](dokumenter/innovation.md#idegenerering)
     * [Målgruppe og persone](dokumenter/innovation.md#målgruppe-og-persona)
-    * [4p-model måling af innovation](dokumenter/innovation.md#4p-model-måling-af-innovation)
+
 
 
 * [Interaktionsdesign](dokumenter/Interaktionsdesign.MD)
