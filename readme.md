@@ -9,11 +9,6 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
-* [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
-* [Internetsikerhed](dokumenter/itsikkerhed.md)
-* [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
-* [Machine Learning](https://github.com/mpsteenstrup/ML)
-* [Databaser](https://github.com/mpsteenstrup/databaser)
 
 
 ## Teori
@@ -49,6 +44,10 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Tidligere Projekter
-### 2022/2023 projekter
+* [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
+* [Internetsikerhed](dokumenter/itsikkerhed.md)
+* [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
+* [Machine Learning](https://github.com/mpsteenstrup/ML)
+* [Databaser](https://github.com/mpsteenstrup/databaser)
 * [Astro Pi](https://github.com/mpsteenstrup/AstroPi2022/tree/master/informatik2022)
 * [Covid-19 dashboard](https://github.com/mpsteenstrup/Covid19DatabaseTutorial)
