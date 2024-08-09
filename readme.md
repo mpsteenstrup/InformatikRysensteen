@@ -8,7 +8,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 
 ## Projekter
-* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegOgSamarbejde#idegenerering-og-innovation)
+* [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegSamarbejde#idegenerering-og-innovation)
 
 
 ## Teori
