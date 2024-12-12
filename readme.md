@@ -10,6 +10,7 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 ## Projekter
 * [Spil leg og samarbejde](https://github.com/mpsteenstrup/spilLegSamarbejde#idegenerering-og-innovation)
 * [Webteknologier](https://github.com/mpsteenstrup/webteknologier)
+* [Internetsikerhed](dokumenter/itsikkerhed.md)
 
 
 ## Teori
@@ -46,7 +47,6 @@ Her er en samlet oversigt over det materiale der ligger til informatikundervisni
 
 ## Tidligere Projekter
 
-* [Internetsikerhed](dokumenter/itsikkerhed.md)
 * [Billedmanipulaiton](https://github.com/mpsteenstrup/Billedmanipulation)
 * [Machine Learning](https://github.com/mpsteenstrup/ML)
 * [Databaser](https://github.com/mpsteenstrup/databaser)
