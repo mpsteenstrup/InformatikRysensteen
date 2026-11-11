@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="dokumenter/style.css">
-
 # Informatik 2023/24
 
 * [webside](https://mpsteenstrup.github.io/InformatikRysensteen/)
